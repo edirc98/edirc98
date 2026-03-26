@@ -81,15 +81,3 @@ I care deeply about **clean, maintainable code**: design patterns, SOLID princip
 ✔ Object Pooling       ✔ Scriptable Objects      ✔ Dependency Injection
 ✔ Singleton            ✔ SOLID Principles        ✔ Clean Architecture
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Edgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edirc98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=edirc98&theme=tokyonight&hide_border=true)
-
-</div>
