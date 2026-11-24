@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="46" viewBox="0 0 214 46" xml:space="preserve" role="img" aria-label="LINKEDIN"><title>LINKEDIN</title><style>
+text{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
+.b{font-weight:700}
+.px{animation:on .04s steps(1) backwards}
+.show{animation:on .01s steps(1) backwards}
+.blink{animation:blink 1s steps(1) infinite}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 14s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 7s linear infinite reverse}
+@keyframes on{from{opacity:0}to{opacity:1}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style><rect x="1" y="1" width="212" height="44" fill="#0A0A0A" stroke="#0A66C2" stroke-width="2"/><rect x="0" y="0" width="40" height="46" fill="#0A66C2"/><text x="20" y="28" font-size="13" fill="#FFFFFF" text-anchor="middle" class="b" >in</text><text x="54" y="28" font-size="13" fill="#E8E6DF" letter-spacing="2" class="b" >LINKEDIN</text><text x="200" y="28" font-size="15" fill="#0A66C2" text-anchor="end" class="b" >↗</text></svg>
